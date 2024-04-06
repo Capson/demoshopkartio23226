@@ -1,5 +1,8 @@
 {
-  "redirects":[{"source": "/",       "destination": "/privacy-policy",       "permanent": true     }
+  "redirects":[
+    {
+      "source": "/",       "destination": "/privacy-policy",       "permanent": true     
+    }
   ],
   "routes": [
     {
