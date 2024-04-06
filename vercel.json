@@ -4,7 +4,7 @@
       "source": "/",       "destination": "/privacy-policy",       "permanent": true     
     }
   ],
-  "routes": [
+  "rewrites": [
     {
       "src": "/(.*)",
       "dest": "https://flexidomain.in/$1"
